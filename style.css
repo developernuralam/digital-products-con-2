@@ -66,3 +66,28 @@ padding: 0px;
     border: none;
     border-radius: 5px;
 }
+
+/* About Section */
+.about-title{
+    text-align: center;
+    padding-top: 20px;
+}
+.about-us-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    margin-top: 20px;
+
+}
+.about-contain h1{
+    margin-bottom: 10px;
+}
+.about-contain .btn{
+    margin-top: 20px;
+    padding: 13px 20px ;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    background-color: red;
+    color: white;
+}
